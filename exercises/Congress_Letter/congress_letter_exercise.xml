@@ -71,7 +71,7 @@
 	"id": "https://raw.githubusercontent.com/CarolineHawkes/leaf_workshops/main/exercises/Congress_Letter/congress_letter_exercise.xml?organization_annotation_20240131125830596",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-31T17:58:30.596Z",
-	"dcterms:modified": "2024-01-31T17:58:30.596Z",
+	"dcterms:modified": "2024-01-31T18:05:58.980Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CarolineHawkes",
 		"@type": [
@@ -151,7 +151,7 @@
 	"id": "https://raw.githubusercontent.com/CarolineHawkes/leaf_workshops/main/exercises/Congress_Letter/congress_letter_exercise.xml?place_annotation_20240131130114490",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-31T18:01:14.490Z",
-	"dcterms:modified": "2024-01-31T18:01:14.490Z",
+	"dcterms:modified": "2024-01-31T18:06:07.913Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CarolineHawkes",
 		"@type": [
@@ -232,7 +232,7 @@
 	"id": "https://raw.githubusercontent.com/CarolineHawkes/leaf_workshops/main/exercises/Congress_Letter/congress_letter_exercise.xml?place_annotation_20240131130200643",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-01-31T18:02:00.643Z",
-	"dcterms:modified": "2024-01-31T18:02:00.643Z",
+	"dcterms:modified": "2024-01-31T18:06:25.321Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CarolineHawkes",
 		"@type": [
@@ -273,7 +273,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.4.0"
-	}
+	},
+	"cwrc:hasPrecision": "cwrc:UnknownCertainty"
 }]]>
         </rdf:Description>
       
@@ -530,7 +531,7 @@
 			<opener>To the Honorable the <orgName key="United States Senate" ref="http://www.wikidata.org/entity/Q66096" cert="high">Senate</orgName> and <orgName cert="high"><orgName>House of Representatives</orgName></orgName> of the United States in
 				Congress Assembled:</opener>
 			<p>The undersigned, Citisens of the <placeName key="United States of America" ref="http://www.wikidata.org/entity/Q30" cert="high">United States<precision match="@ref" precision="Unknown"/></placeName>, believing that under the present
-					Federal Constitution all women who are citisens of the <placeName key="United States of America" ref="http://www.wikidata.org/entity/Q30">United States</placeName> have the
+					Federal Constitution all women who are citisens of the <placeName key="United States of America" ref="http://www.wikidata.org/entity/Q30">United States<precision match="@ref" precision="Unknown"/></placeName> have the
 					right to vote, pray your Honorable Body to
 				enact a law during the present session that shall assist and protect them in the exercise of that
 					right
